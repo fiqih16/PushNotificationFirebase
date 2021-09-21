@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "349279096289",
+    "project_id": "fir-pushnotification-4e84f",
+    "storage_bucket": "fir-pushnotification-4e84f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349279096289:android:b53be942663b94b8c696a0",
+        "android_client_info": {
+          "package_name": "com.fiqih.firebasepushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349279096289-29jn8gll2nnjvcpkap0knnh0ql0n332c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr6Q59r66i_3GTRYote-qQLfJ8uF-qP1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349279096289-29jn8gll2nnjvcpkap0knnh0ql0n332c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
